@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a business digital transformation app**
+ 🔭 I’m currently working on **a digital transformation app for business**
  
  🌱 I’m currently learning **.net6, Reactjs, React Native Expo**
 
