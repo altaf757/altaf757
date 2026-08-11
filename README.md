@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a digital transformation app for business**
  
- 🌱 I’m currently learning **.net6, Reactjs, React Native Expo**
+ 🌱 I’m currently learning ** AI Model Integration **
 
- 💬 Ask me about **.net core, React, Azure, MSSql Server... or anything [here](https://github.com/altaf757/altaf757/issues)**
+ 💬 Ask me about ** C#, .NET Core, React, Azure, MSSql Server... or anything [here](https://github.com/altaf757/altaf757/issues)**
 
- ⚡ Fun fact **PC Games like fifa,PUBG, COD, GTA ..**
+ ⚡ Fun fact ** PC Games like FIFA, PUBG, COD, GTA ..**
  
  </div>
  
